@@ -1,0 +1,22 @@
+#  imported templates, if applicable
+imports:
+  #  path relative to the configuration file
+- path: ./main.go
+  name: main.go
+
+
+# resources:
+#   - name: NAME_OF_RESOURCE
+#     type: TYPE_OF_RESOURCE
+#     properties:
+#       property-a: value
+#       property-b: value
+#       ...
+#       property-z: value
+#   - name: NAME_OF_RESOURCE
+#     type: TYPE_OF_RESOURCE
+#     properties:
+#       property-a: value
+#       property-b: value
+#       ...
+#       property-z: value
